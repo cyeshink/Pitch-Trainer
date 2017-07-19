@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pitch Trainer</string>
+    <string name="pp_name">Perfect Pitch Training</string>
+    <string name="pl_name">Perfect Pitch Ladder</string>
+    <string name="about_name">About</string>
+    <string name="pt_name">Perfect Pitch Test</string>
+</resources>
